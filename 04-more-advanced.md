@@ -1,5 +1,4 @@
 1.What is the difference between git reset and git revert. When would you use one over the other?
-
 jawaban:git reset digunakan untuk mengembalikan file saat ini ke file sebelumnya dengan menghapus sejarah comit.sedangkan git revert digunakan untuk mengembalikan file saat ini ke file sebelumnyat tanpa menghapus sejarah commit.
 saya akan menggunakan git revert saat akan mengambil file sebelumnya dan ingin menggabungkan dengan commit terakhir.
 
